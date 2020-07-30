@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are a few things about me:
+#### Here are a few things about me:
 
 - 🏢 I'm a Lead Software Engineer at Emory University
 - 🔥 I'm currently working on a cool WordPress plugin that is a UI for creating Customizer sections and controls
