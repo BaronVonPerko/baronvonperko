@@ -8,3 +8,7 @@
 - 🎥 I also record YouTube videos and tutorials
 - 💬 I'm happy to help newbie devs, feel free to contact me!
 - 📬 You can reach me at chris@chrisperko.net
+
+For my personal blog, checkout [perko.dev](https://perko.dev)!
+
+Looking to hire me?  Check out my freelance website at [ChrisPerko.net](https://chrisperko.net)!
