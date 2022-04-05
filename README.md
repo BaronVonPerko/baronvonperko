@@ -2,7 +2,7 @@
 
 #### Here are a few things about me:
 
-- 🏢 I'm a Lead Software Engineer at Emory University
+- 🏢 I'm a Senior Software Engineer at HeroDevs
 - 🔥 I'm currently working on a cool WordPress plugin that is a UI for creating Customizer sections and controls
 - ⌚ I also enjoy working on FitBit apps and watch faces
 - 🎥 I also record YouTube videos and tutorials
